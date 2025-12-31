@@ -1,0 +1,109 @@
+Answer 1
+print("Ashikur Rahaman")
+
+Answer 2
+print("Name: Ashikur")
+print("Age: 23")
+
+Answer 3
+print("Python\nProgramming")
+
+Answer 4
+print("Name\tAge\tCity")
+
+Answer 5
+print("C:\Users\Akash\Documents")
+
+Answer 6
+print("He said "It's a good day"")
+
+Answer 7
+for i in range(1, 11):
+print(i, end=" ")
+
+Answer 8
+for i in range(1, 6):
+print(i)
+
+Answer 9
+print("2025", "01", "01", sep="/")
+
+Answer 10
+print("Hello", end=" ")
+print("World")
+
+Answer 11
+amount = 1250.75
+print(f"৳ {amount:.2f}")
+
+Answer 12
+value = 3.14159
+print(f"Value: {value:.3f}")
+
+Answer 13
+print(ord('A'))
+
+Answer 14
+print(chr(97))
+
+Answer 15
+print("""Dhaka
+Bangladesh
+Asia""")
+
+Answer 16
+for i in range(2, 21, 2):
+print(i, end=" ")
+
+Answer 17
+for i in range(1, 16, 2):
+print(i, end=" ")
+
+Answer 18
+for i in range(5):
+print("Welcome")
+
+Answer 19
+name = "Ashikur"
+age = 23
+print(f"Name: {name}, Age: {age}")
+
+Answer 20
+print("Python", end="")
+print("Backend")
+
+Answer 21
+print("[INFO] User logged in successfully")
+
+Answer 22
+print("[ERROR 404] Page not found")
+
+Answer 23
+print("Status: 200")
+print("Message: OK")
+
+Answer 24
+print("Total records: 25")
+
+Answer 25
+data = [10, 20, 30, 40]
+for i in data:
+print(i, end=" ")
+
+Answer 26
+data = [10, 20, 30, 40]
+for i in data:
+print(i)
+
+Answer 27
+print("Loading", end="...")
+print("Done")
+
+Answer 28
+print("[2025-01-01 10:30:00] Server started")
+
+Answer 29
+print("name=Akash | age=23 | role=admin")
+
+Answer 30
+print("Python Backend 🚀")
