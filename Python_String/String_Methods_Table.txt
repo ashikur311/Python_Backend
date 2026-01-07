@@ -1,0 +1,92 @@
+| Method Name    | Description                                          |
+| -------------- | ---------------------------------------------------- |
+| capitalize()   | Converts the first character to upper case           |
+| -------------- | ---------------------------------------------------- |
+| casefold()     | Converts string into lower case                      |
+| -------------- | ---------------------------------------------------- |
+| center()       | Returns a centered string                            |
+| -------------- | ---------------------------------------------------- |
+| count()        | Returns the number of times a specified value occurs |
+| -------------- | ---------------------------------------------------- |
+| encode()       | Returns an encoded version of the string             |
+| -------------- | ---------------------------------------------------- |
+| endswith()     | Returns True if string ends with specified value     |
+| -------------- | ---------------------------------------------------- |
+| expandtabs()   | Sets the tab size of the string                      |
+| -------------- | ---------------------------------------------------- |
+| find()         | Searches and returns the first position of value     |
+| -------------- | ---------------------------------------------------- |
+| format()       | Formats specified values in a string                 |
+| -------------- | ---------------------------------------------------- |
+| format_map()   | Formats values from a dictionary                     |
+| -------------- | ---------------------------------------------------- |
+| index()        | Searches and returns the first position of value     |
+| -------------- | ---------------------------------------------------- |
+| isalnum()      | Returns True if all characters are alphanumeric      |
+| -------------- | ---------------------------------------------------- |
+| isalpha()      | Returns True if all characters are alphabetic        |
+| -------------- | ---------------------------------------------------- |
+| isascii()      | Returns True if all characters are ASCII             |
+| -------------- | ---------------------------------------------------- |
+| isdecimal()    | Returns True if all characters are decimal           |
+| -------------- | ---------------------------------------------------- |
+| isdigit()      | Returns True if all characters are digits            |
+| -------------- | ---------------------------------------------------- |
+| isidentifier() | Returns True if string is a valid identifier         |
+| -------------- | ---------------------------------------------------- |
+| islower()      | Returns True if all characters are lowercase         |
+| -------------- | ---------------------------------------------------- |
+| isnumeric()    | Returns True if all characters are numeric           |
+| -------------- | ---------------------------------------------------- |
+| isprintable()  | Returns True if all characters are printable         |
+| -------------- | ---------------------------------------------------- |
+| isspace()      | Returns True if all characters are whitespace        |
+| -------------- | ---------------------------------------------------- |
+| istitle()      | Returns True if string follows title case            |
+| -------------- | ---------------------------------------------------- |
+| isupper()      | Returns True if all characters are uppercase         |
+| -------------- | ---------------------------------------------------- |
+| join()         | Converts elements of an iterable into a string       |
+| -------------- | ---------------------------------------------------- |
+| ljust()        | Returns a left-justified string                      |
+| -------------- | ---------------------------------------------------- |
+| lower()        | Converts string into lower case                      |
+| -------------- | ---------------------------------------------------- |
+| lstrip()       | Removes left whitespace                              |
+| -------------- | ---------------------------------------------------- |
+| maketrans()    | Returns a translation table                          |
+| -------------- | ---------------------------------------------------- |
+| partition()    | Splits string into three parts                       |
+| -------------- | ---------------------------------------------------- |
+| replace()      | Replaces specified value with another                |
+| -------------- | ---------------------------------------------------- |
+| rfind()        | Returns last position of specified value             |
+| -------------- | ---------------------------------------------------- |
+| rindex()       | Returns last position of specified value             |
+| -------------- | ---------------------------------------------------- |
+| rjust()        | Returns a right-justified string                     |
+| -------------- | ---------------------------------------------------- |
+| rpartition()   | Splits string into three parts from right            |
+| -------------- | ---------------------------------------------------- |
+| rsplit()       | Splits string from the right                         |
+| -------------- | ---------------------------------------------------- |
+| rstrip()       | Removes right whitespace                             |
+| -------------- | ---------------------------------------------------- |
+| split()        | Splits string into a list                            |
+| -------------- | ---------------------------------------------------- |
+| splitlines()   | Splits string at line breaks                         |
+| -------------- | ---------------------------------------------------- |
+| startswith()   | Returns True if string starts with value             |
+| -------------- | ---------------------------------------------------- |
+| strip()        | Removes whitespace from both sides                   |
+| -------------- | ---------------------------------------------------- |
+| swapcase()     | Swaps upper case to lower case and vice versa        |
+| -------------- | ---------------------------------------------------- |
+| title()        | Converts first character of each word to upper case  |
+| -------------- | ---------------------------------------------------- |
+| translate()    | Returns a translated string                          |
+| -------------- | ---------------------------------------------------- |
+| upper()        | Converts string into upper case                      |
+| -------------- | ---------------------------------------------------- |
+| zfill()        | Pads string with zeros on the left                   |
+| -------------- | ---------------------------------------------------- |

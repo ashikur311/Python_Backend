@@ -1,0 +1,197 @@
+PYTHON PRINT() – TOP-GRADED PRACTICE PROBLEM SHEET
+
+Practice 1
+Task: Print your full name in one line
+Expected Output:
+Ashikur Rahaman
+Instruction: Write the code
+
+Practice 2
+Task: Print your name and age in two separate lines
+Expected Output:
+Name: Ashikur
+Age: 23
+Instruction: Write the code
+
+Practice 3
+Task: Print "Python Programming" using a new line
+Expected Output:
+Python
+Programming
+Instruction: Write the code
+
+Practice 4
+Task: Print a table header using tabs (Name, Age, City)
+Expected Output:
+Name Age City
+Instruction: Write the code
+
+Practice 5
+Task: Print a Windows file path correctly
+Expected Output:
+C:\Users\Akash\Documents
+Instruction: Write the code
+
+Practice 6
+Task: Print a sentence with both single and double quotes
+Expected Output:
+He said "It's a good day"
+Instruction: Write the code
+
+Practice 7
+Task: Print numbers 1 to 10 in one line
+Expected Output:
+1 2 3 4 5 6 7 8 9 10
+Instruction: Write the code
+
+Practice 8
+Task: Print numbers 1 to 5, each on a new line
+Expected Output:
+1
+2
+3
+4
+5
+Instruction: Write the code
+
+Practice 9
+Task: Print today's date using separator
+Expected Output:
+2025/01/01
+Instruction: Write the code
+
+Practice 10
+Task: Print two messages in the same line
+Expected Output:
+Hello World
+Instruction: Write the code
+
+Practice 11
+Task: Print currency with two decimal places
+Expected Output:
+৳ 1250.75
+Instruction: Write the code
+
+Practice 12
+Task: Print a floating number rounded to three decimals
+Expected Output:
+Value: 3.142
+Instruction: Write the code
+
+Practice 13
+Task: Print ASCII value of character A
+Expected Output:
+65
+Instruction: Write the code
+
+Practice 14
+Task: Convert ASCII value 97 to character
+Expected Output:
+a
+Instruction: Write the code
+
+Practice 15
+Task: Print multi-line address
+Expected Output:
+Dhaka
+Bangladesh
+Asia
+Instruction: Write the code
+
+Practice 16
+Task: Print even numbers from 2 to 20
+Expected Output:
+2 4 6 8 10 12 14 16 18 20
+Instruction: Write the code
+
+Practice 17
+Task: Print odd numbers from 1 to 15
+Expected Output:
+1 3 5 7 9 11 13 15
+Instruction: Write the code
+
+Practice 18
+Task: Print a message five times
+Expected Output:
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Instruction: Write the code
+
+Practice 19
+Task: Print values using f-string
+Expected Output:
+Name: Ashikur, Age: 23
+Instruction: Write the code
+
+Practice 20
+Task: Print output without using new line
+Expected Output:
+PythonBackend
+Instruction: Write the code
+
+Practice 21
+Task: Print a login log message
+Expected Output:
+[INFO] User logged in successfully
+Instruction: Write the code
+
+Practice 22
+Task: Print an error message with code
+Expected Output:
+[ERROR 404] Page not found
+Instruction: Write the code
+
+Practice 23
+Task: Print API status and message
+Expected Output:
+Status: 200
+Message: OK
+Instruction: Write the code
+
+Practice 24
+Task: Print database record count
+Expected Output:
+Total records: 25
+Instruction: Write the code
+
+Practice 25
+Task: Print list elements in one line
+Expected Output:
+10 20 30 40
+Instruction: Write the code
+
+Practice 26
+Task: Print list elements line by line
+Expected Output:
+10
+20
+30
+40
+Instruction: Write the code
+
+Practice 27
+Task: Print progress message
+Expected Output:
+Loading...Done
+Instruction: Write the code
+
+Practice 28
+Task: Print server start timestamp
+Expected Output:
+[2025-01-01 10:30:00] Server started
+Instruction: Write the code
+
+Practice 29
+Task: Print key-value output
+Expected Output:
+name=Akash | age=23 | role=admin
+Instruction: Write the code
+
+Practice 30
+Task: Print emoji with text
+Expected Output:
+Python Backend 🚀
+Instruction: Write the code

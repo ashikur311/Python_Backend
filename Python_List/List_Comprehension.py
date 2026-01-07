@@ -40,3 +40,7 @@ print(squared_numbers)
 
 uppercase_fruits=[x.upper() for x in fruits]
 print(uppercase_fruits)
+
+#The expression can also contain conditions, not like a filter, but as a way to manipulate the outcome:
+newlist3=[x if x!="banana" else "orange" for x in fruits]
+print(newlist3)

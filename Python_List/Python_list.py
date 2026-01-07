@@ -57,3 +57,34 @@ export_fruits = ["mango", "papaya", "pineapple"]
 tropical_fruits = ["banana", "kiwi", "orange"]
 export_fruits.extend(tropical_fruits)
 print(export_fruits)
+
+# Remove List Items
+#----------------------------
+
+#To remove an item in a list, use the remove() method:
+#If there are more than one item with the specified value, the remove() method removes the first occurrence:
+
+fruit_list.remove("kiwi")
+print(fruit_list)
+
+#You can also use the pop() method to remove an item. If you do not specify the index, the pop() method removes the last item.
+fruit_list.pop()
+print(fruit_list)
+
+fruit_list.pop(1)
+print(fruit_list)
+
+#You can use the del keyword to remove an item at a specific index:
+del fruit_list[0]
+print(fruit_list)
+
+
+#You can also use the del keyword to delete the entire list:
+del fruit_list
+print(fruit_list) # This will raise an error because the list no longer exists.
+
+
+#Clear the list content but not the list itself:
+fruit_list1 = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+fruit_list1.clear()
+print(fruit_list1) # Outputs []
